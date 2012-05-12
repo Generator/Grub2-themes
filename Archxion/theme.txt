@@ -10,7 +10,7 @@ title-color: "#000000"
 message-font: "Fixed Regular 13"
 message-color: "#FFFFFF"
 message-bg-color: "#f6f6f6"
-desktop-image: "Axiom.png"
+desktop-image: "background.png"
 desktop-color: "#000000"
 terminal-box: "menu_bkg_*.png"
 terminal-font: "Fixed Regular 13"
@@ -67,7 +67,7 @@ terminal-font: "Fixed Regular 13"
 
 # Show an informational message.
 + hbox {
-		top = 100%-20
+		top = 100%-35
 		left = 20%
 		+ label {text = "Enter: " font = "Sans 12" color = "#4c4c4c" align = "left"}
 		+ label {text = "Boot Selection     " font = "Sans 12" color = "#1692d0" align = "left"}
