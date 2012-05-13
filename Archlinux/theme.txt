@@ -10,21 +10,20 @@ title-color: "#000000"
 message-font: "Fixed Regular 13"
 message-color: "#FFFFFF"
 message-bg-color: "#f6f6f6"
-desktop-image: "background.png"
 desktop-color: "#000000"
 terminal-box: "menu_bkg_*.png"
 terminal-font: "Fixed Regular 13"
 
 # Show the boot menu
 + boot_menu {
-		left = 15%
-		width = 70%
-		top = 29%
-		height = 42%
+		left = 30%
+		width = 40%
+		top = 150
+		height = 50%
 		item_font = "Sans Regular 12"
 		selected_item_font = "Sans Regular 14"
-		item_color = "#000000"
-		selected_item_color = "#FFFFFF"
+		item_color = "#5698fc"
+		selected_item_color = "#5698fc"
 		item_height = 38
 		item_padding = 15
 		item_spacing = 5
@@ -48,9 +47,10 @@ terminal-font: "Fixed Regular 13"
    top = 150
    width = 100
    height = 100
-   num_ticks = 32
-   ticks_disappear = true
-   start_angle = -60
+   num_ticks = 33
+   ticks_disappear = false
+   start_angle = -67
+   end_angle = -67
    center_bitmap = "archlogo.png"
    tick_bitmap = "tick.png"
 }
