@@ -44,8 +44,10 @@ terminal-font: "Fixed Regular 13"
 + circular_progress
 {
    id = "__timeout__"
-   position = (40, 150)
-   preferred_size = (100, 100)
+   left = 40
+   top = 150
+   width = 100
+   height = 100
    num_ticks = 32
    ticks_disappear = true
    start_angle = -60
