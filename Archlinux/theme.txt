@@ -1,7 +1,6 @@
-# GRUB2 gfxmenu Archxiom theme.
+# GRUB2 gfxmenu Archlinux theme.
 # Designed for 1024x768 resolution.
-# Forked from Axion by Legendary Bibo
-# Changed by American_Jesus
+# Created by American_Jesus
 
 # Global Property
 title-text: ""
