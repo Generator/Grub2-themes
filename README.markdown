@@ -64,7 +64,7 @@ file = "archlogo.png" \# distribution logo</code>
 
 
 ## Ideas or suggestions to share in: 
-[Issues](https://github.com/Generator/Grub2-themes/issues)
-[ArchLinux Forums](https://bbs.archlinux.org/viewtopic.php?id=141631)
-[Twiter @American_Jesus](https://twitter.com/American_Jesus)
+[Issues](https://github.com/Generator/Grub2-themes/issues)  
+[ArchLinux Forums](https://bbs.archlinux.org/viewtopic.php?id=141631)  
+[Twiter @American_Jesus](https://twitter.com/American_Jesus)  
 
