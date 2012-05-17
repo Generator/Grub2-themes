@@ -1,8 +1,8 @@
-## Installlation
+## Installation
 
 **Using git:**  
 <code>$ git clone git://github.com/Generator/Grub2-themes.git  
-\# cp -r Grub2-themes/{Archlinux,Archxion} /boot/grub/themes/</code>
+ \# cp -r Grub2-themes/{Archlinux,Archxion} /boot/grub/themes/</code>
 
 **Edit your /etc/default/grub and change line:**
 <code>\#GRUB_THEME="/path/to/gfxtheme"  
@@ -38,14 +38,14 @@ Resize the image to 32x32, and copy it to */boot/grub/themes/THEME/icons/*
 (Images must be in PNG)  
 
 **Can I change the background or color of the theme?**  
-Choose an image, converts and resizes to 1024x768 in PNG  
+Yes, choose an image, convert and resize to 1024x768 in PNG  
 Copy the image to */boot/grub/themes/THEME/*  
 Edit */boot/grub/themes/THEME/theme.txt*:  
 <code>desktop-image: "background.png" # Theme background image  
 desktop-color: "#000000" # Theme color</code>
 
 
-**How can I change the logo theme**  
+**How can I change the logo theme?**  
 Copy your logo image to */boot/grub/themes/THEME/* (must be in PNG)  
 Edit */boot/grub/themes/THEME/theme.txt*:  
 <code>\+ image {  
