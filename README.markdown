@@ -4,7 +4,7 @@
 <code>$ git clone git://github.com/Generator/Grub2-themes.git  
  \# cp -r Grub2-themes/{Archlinux,Archxion} /boot/grub/themes/</code>
 
-**Edit your /etc/default/grub and change line:**
+**Edit your /etc/default/grub and change line:**  
 <code>\#GRUB_THEME="/path/to/gfxtheme"  
 to  
 GRUB_THEME="/boot/grub/themes/Archxion/theme.txt"  
