@@ -20,7 +20,8 @@ GRUB_GFXMODE=1024x768</code>
 <code>\# grub-mkconfig -o /boot/grub/grub.cfg</code>
 
 **Archlinux AUR:**  
-Soon...
+Archxion: [grub2-theme-archxion](https://aur.archlinux.org/packages.php?ID=59370)  
+Archlinux: Soon...  
 
 
 ## FAQ  
