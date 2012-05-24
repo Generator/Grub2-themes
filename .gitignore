@@ -1,0 +1,16 @@
+# Packages 
+*.tar.bz2
+*.tar.gz
+*.tar.xz
+*.zip
+
+# GIMP files
+*.xcf
+
+# PKGBUILD dirs
+pkg/
+src/
+
+# Other
+*~
+.*.swp
