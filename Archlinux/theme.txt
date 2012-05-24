@@ -44,8 +44,8 @@ terminal-font: "Fixed Regular 13"
    id = "__timeout__"
    left = 40
    top = 150
-   width = 100
-   height = 100
+   width = 105
+   height = 105
    num_ticks = 33
    ticks_disappear = false
    start_angle = -67
