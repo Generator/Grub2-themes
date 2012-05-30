@@ -21,7 +21,7 @@ GRUB_GFXMODE=1024x768</code>
 
 **Archlinux AUR:**  
 Archxion: [grub2-theme-archxion](https://aur.archlinux.org/packages.php?ID=59370)  
-Archlinux: Soon...  
+Archlinux: [grub2-theme-archlinux](https://aur.archlinux.org/packages.php?ID=59643)  
 
 
 ## FAQ  
