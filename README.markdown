@@ -23,6 +23,8 @@ GRUB_GFXMODE=1024x768</code>
 Archxion: [grub2-theme-archxion](https://aur.archlinux.org/packages.php?ID=59370)  
 Archlinux: [grub2-theme-archlinux](https://aur.archlinux.org/packages.php?ID=59643)  
 
+**Screenshots**  
+<a href="https://github.com/Generator/Grub2-themes/raw/master/Preview/Archlinux_preview.png"><img height=300 src="https://github.com/Generator/Grub2-themes/blob/master/Preview/Archinox_preview.png?raw=true"></a> <a href="https://github.com/Generator/Grub2-themes/blob/master/Preview/Archinox_preview.png?raw=true"><img height=300 src="https://github.com/Generator/Grub2-themes/blob/master/Preview/Archlinux_preview.png?raw=true"></a>  
 
 ## FAQ  
 
@@ -57,6 +59,8 @@ top = 2%
 height = 12%  
 file = "archlogo.png" \# distribution logo</code>  
 
+**Why the menus are so slow?** 
+Grub2 has some keyboard lag using themes, as referred on "[The Definitive Guide To Theming GRUB 2 v1.99](https://docs.google.com/open?id=0B82343FTJphIbElHUGVac1hBZnc)" pag 73
 
 ## References: 
 [GNU GRUB Manual 1.99](http://www.gnu.org/software/grub/manual/grub.html#Theme-file-format)  
@@ -64,8 +68,6 @@ file = "archlogo.png" \# distribution logo</code>
 [The Definitive Guide To Theming GRUB 2 v1.99](https://docs.google.com/open?id=0B82343FTJphIbElHUGVac1hBZnc)  
 
 
-## Ideas or suggestions to share in: 
-[Issues](https://github.com/Generator/Grub2-themes/issues)  
+## Ideas or suggestions to share in:  
 [ArchLinux Forums](https://bbs.archlinux.org/viewtopic.php?id=141631)  
-[Twiter @American_Jesus](https://twitter.com/American_Jesus)  
 
