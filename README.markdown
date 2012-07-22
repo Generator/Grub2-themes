@@ -59,7 +59,7 @@ top = 2%
 height = 12%  
 file = "archlogo.png" \# distribution logo</code>  
 
-**Why the menus are so slow?** 
+**Why the menus are so slow?**  
 Grub2 has some keyboard lag using themes, as referred on "[The Definitive Guide To Theming GRUB 2 v1.99](https://docs.google.com/open?id=0B82343FTJphIbElHUGVac1hBZnc)" pag 73
 
 ## References: 
