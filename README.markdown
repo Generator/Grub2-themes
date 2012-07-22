@@ -24,7 +24,7 @@ Archxion: [grub2-theme-archxion](https://aur.archlinux.org/packages.php?ID=59370
 Archlinux: [grub2-theme-archlinux](https://aur.archlinux.org/packages.php?ID=59643)  
 
 **Screenshots**  
-<a href="https://github.com/Generator/Grub2-themes/raw/master/Preview/Archlinux_preview.png"><img height=300 src="https://github.com/Generator/Grub2-themes/blob/master/Preview/Archinox_preview.png?raw=true"></a> <a href="https://github.com/Generator/Grub2-themes/blob/master/Preview/Archinox_preview.png?raw=true"><img height=300 src="https://github.com/Generator/Grub2-themes/blob/master/Preview/Archlinux_preview.png?raw=true"></a>  
+<a href="https://github.com/Generator/Grub2-themes/blob/master/Preview/Archinox_preview.png"><img height=300 src="https://github.com/Generator/Grub2-themes/blob/master/Preview/Archinox_preview.png?raw=true"></a> <a href="https://github.com/Generator/Grub2-themes/blob/master/Preview/Archlinux_preview.png"><img height=300 src="https://github.com/Generator/Grub2-themes/blob/master/Preview/Archlinux_preview.png?raw=true"></a>  
 
 ## FAQ  
 
