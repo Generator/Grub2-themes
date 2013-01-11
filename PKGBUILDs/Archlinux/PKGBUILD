@@ -3,7 +3,7 @@
 pkgname=grub2-theme-archlinux
 _pkgname=Archlinux
 pkgver=1.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Grub2 gfxmenu theme."
 url="https://github.com/Generator/Grub2-themes"
 arch=('any')
@@ -12,8 +12,8 @@ depends=('grub2-common')
 install=${pkgname}.install
 source=("https://github.com/downloads/Generator/Grub2-themes/$_pkgname-$pkgver.tar.bz2")
 md5sums=('d6ec2d58685eb3b92d96d2ac9a09b0d7')
- 
+
 build() {
   cd "${srcdir}"
-  find . -type f -exec install -D -m644 {} ${pkgdir}/usr/share/grub/themes/{} \;
+  find . -type f -exec install -D -m644 {} ${pkgdir}/boot/grub/themes/{} \;
 }
